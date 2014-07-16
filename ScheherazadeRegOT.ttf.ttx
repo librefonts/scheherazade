@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="ScheherazadeRegOT.ttf.GlyphOrder.ttx"/>
+  <head src="ScheherazadeRegOT.ttf._h_e_a_d.ttx"/>
+  <hhea src="ScheherazadeRegOT.ttf._h_h_e_a.ttx"/>
+  <maxp src="ScheherazadeRegOT.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="ScheherazadeRegOT.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="ScheherazadeRegOT.ttf._h_m_t_x.ttx"/>
+  <LTSH src="ScheherazadeRegOT.ttf.L_T_S_H_.ttx"/>
+  <VDMX src="ScheherazadeRegOT.ttf.V_D_M_X_.ttx"/>
+  <hdmx src="ScheherazadeRegOT.ttf._h_d_m_x.ttx"/>
+  <cmap src="ScheherazadeRegOT.ttf._c_m_a_p.ttx"/>
+  <fpgm src="ScheherazadeRegOT.ttf._f_p_g_m.ttx"/>
+  <prep src="ScheherazadeRegOT.ttf._p_r_e_p.ttx"/>
+  <cvt src="ScheherazadeRegOT.ttf._c_v_t.ttx"/>
+  <loca src="ScheherazadeRegOT.ttf._l_o_c_a.ttx"/>
+  <glyf src="ScheherazadeRegOT.ttf._g_l_y_f.ttx"/>
+  <name src="ScheherazadeRegOT.ttf._n_a_m_e.ttx"/>
+  <post src="ScheherazadeRegOT.ttf._p_o_s_t.ttx"/>
+  <gasp src="ScheherazadeRegOT.ttf._g_a_s_p.ttx"/>
+  <GDEF src="ScheherazadeRegOT.ttf.G_D_E_F_.ttx"/>
+  <GPOS src="ScheherazadeRegOT.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="ScheherazadeRegOT.ttf.G_S_U_B_.ttx"/>
+  <Silt src="ScheherazadeRegOT.ttf.S__i_l_t.ttx"/>
+</ttFont>

@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x9" name="uni0009"/><!-- &lt;control> -->
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
+      <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
+      <map code="0x23" name="numbersign"/><!-- NUMBER SIGN -->
+      <map code="0x24" name="dollar"/><!-- DOLLAR SIGN -->
+      <map code="0x25" name="percent"/><!-- PERCENT SIGN -->
+      <map code="0x26" name="ampersand"/><!-- AMPERSAND -->
+      <map code="0x27" name="quotesingle"/><!-- APOSTROPHE -->
+      <map code="0x28" name="parenleft"/><!-- LEFT PARENTHESIS -->
+      <map code="0x29" name="parenright"/><!-- RIGHT PARENTHESIS -->
+      <map code="0x2a" name="asterisk"/><!-- ASTERISK -->
+      <map code="0x2b" name="plus"/><!-- PLUS SIGN -->
+      <map code="0x2c" name="comma"/><!-- COMMA -->
+      <map code="0x2d" name="hyphen"/><!-- HYPHEN-MINUS -->
+      <map code="0x2e" name="period"/><!-- FULL STOP -->
+      <map code="0x2f" name="slash"/><!-- SOLIDUS -->
+      <map code="0x30" name="zero"/><!-- DIGIT ZERO -->
+      <map code="0x31" name="one"/><!-- DIGIT ONE -->
+      <map code="0x32" name="two"/><!-- DIGIT TWO -->
+      <map code="0x33" name="three"/><!-- DIGIT THREE -->
+      <map code="0x34" name="four"/><!-- DIGIT FOUR -->
+      <map code="0x35" name="five"/><!-- DIGIT FIVE -->
+      <map code="0x36" name="six"/><!-- DIGIT SIX -->
+      <map code="0x37" name="seven"/><!-- DIGIT SEVEN -->
+      <map code="0x38" name="eight"/><!-- DIGIT EIGHT -->
+      <map code="0x39" name="nine"/><!-- DIGIT NINE -->
+      <map code="0x3a" name="colon"/><!-- COLON -->
+      <map code="0x3b" name="semicolon"/><!-- SEMICOLON -->
+      <map code="0x3c" name="less"/><!-- LESS-THAN SIGN -->
+      <map code="0x3d" name="equal"/><!-- EQUALS SIGN -->
+      <map code="0x3e" name="greater"/><!-- GREATER-THAN SIGN -->
+      <map code="0x3f" name="question"/><!-- QUESTION MARK -->
+      <map code="0x40" name="at"/><!-- COMMERCIAL AT -->
+      <map code="0x41" name="A"/><!-- LATIN CAPITAL LETTER A -->
+      <map code="0x42" name="B"/><!-- LATIN CAPITAL LETTER B -->
+      <map code="0x43" name="C"/><!-- LATIN CAPITAL LETTER C -->
+      <map code="0x44" name="D"/><!-- LATIN CAPITAL LETTER D -->
+      <map code="0x45" name="E"/><!-- LATIN CAPITAL LETTER E -->
+      <map code="0x46" name="F"/><!-- LATIN CAPITAL LETTER F -->
+      <map code="0x47" name="G"/><!-- LATIN CAPITAL LETTER G -->
+      <map code="0x48" name="H"/><!-- LATIN CAPITAL LETTER H -->
+      <map code="0x49" name="I"/><!-- LATIN CAPITAL LETTER I -->
+      <map code="0x4a" name="J"/><!-- LATIN CAPITAL LETTER J -->
+      <map code="0x4b" name="K"/><!-- LATIN CAPITAL LETTER K -->
+      <map code="0x4c" name="L"/><!-- LATIN CAPITAL LETTER L -->
+      <map code="0x4d" name="M"/><!-- LATIN CAPITAL LETTER M -->
+      <map code="0x4e" name="N"/><!-- LATIN CAPITAL LETTER N -->
+      <map code="0x4f" name="O"/><!-- LATIN CAPITAL LETTER O -->
+      <map code="0x50" name="P"/><!-- LATIN CAPITAL LETTER P -->
+      <map code="0x51" name="Q"/><!-- LATIN CAPITAL LETTER Q -->
+      <map code="0x52" name="R"/><!-- LATIN CAPITAL LETTER R -->
+      <map code="0x53" name="S"/><!-- LATIN CAPITAL LETTER S -->
+      <map code="0x54" name="T"/><!-- LATIN CAPITAL LETTER T -->
+      <map code="0x55" name="U"/><!-- LATIN CAPITAL LETTER U -->
+      <map code="0x56" name="V"/><!-- LATIN CAPITAL LETTER V -->
+      <map code="0x57" name="W"/><!-- LATIN CAPITAL LETTER W -->
+      <map code="0x58" name="X"/><!-- LATIN CAPITAL LETTER X -->
+      <map code="0x59" name="Y"/><!-- LATIN CAPITAL LETTER Y -->
+      <map code="0x5a" name="Z"/><!-- LATIN CAPITAL LETTER Z -->
+      <map code="0x5b" name="bracketleft"/><!-- LEFT SQUARE BRACKET -->
+      <map code="0x5c" name="backslash"/><!-- REVERSE SOLIDUS -->
+      <map code="0x5d" name="bracketright"/><!-- RIGHT SQUARE BRACKET -->
+      <map code="0x5e" name="asciicircum"/><!-- CIRCUMFLEX ACCENT -->
+      <map code="0x5f" name="underscore"/><!-- LOW LINE -->
+      <map code="0x60" name="grave"/><!-- GRAVE ACCENT -->
+      <map code="0x61" name="a"/><!-- LATIN SMALL LETTER A -->
+      <map code="0x62" name="b"/><!-- LATIN SMALL LETTER B -->
+      <map code="0x63" name="c"/><!-- LATIN SMALL LETTER C -->
+      <map code="0x64" name="d"/><!-- LATIN SMALL LETTER D -->
+      <map code="0x65" name="e"/><!-- LATIN SMALL LETTER E -->
+      <map code="0x66" name="f"/><!-- LATIN SMALL LETTER F -->
+      <map code="0x67" name="g"/><!-- LATIN SMALL LETTER G -->
+      <map code="0x68" name="h"/><!-- LATIN SMALL LETTER H -->
+      <map code="0x69" name="i"/><!-- LATIN SMALL LETTER I -->
+      <map code="0x6a" name="j"/><!-- LATIN SMALL LETTER J -->
+      <map code="0x6b" name="k"/><!-- LATIN SMALL LETTER K -->
+      <map code="0x6c" name="l"/><!-- LATIN SMALL LETTER L -->
+      <map code="0x6d" name="m"/><!-- LATIN SMALL LETTER M -->
+      <map code="0x6e" name="n"/><!-- LATIN SMALL LETTER N -->
+      <map code="0x6f" name="o"/><!-- LATIN SMALL LETTER O -->
+      <map code="0x70" name="p"/><!-- LATIN SMALL LETTER P -->
+      <map code="0x71" name="q"/><!-- LATIN SMALL LETTER Q -->
+      <map code="0x72" name="r"/><!-- LATIN SMALL LETTER R -->
+      <map code="0x73" name="s"/><!-- LATIN SMALL LETTER S -->
+      <map code="0x74" name="t"/><!-- LATIN SMALL LETTER T -->
+      <map code="0x75" name="u"/><!-- LATIN SMALL LETTER U -->
+      <map code="0x76" name="v"/><!-- LATIN SMALL LETTER V -->
+      <map code="0x77" name="w"/><!-- LATIN SMALL LETTER W -->
+      <map code="0x78" name="x"/><!-- LATIN SMALL LETTER X -->
+      <map code="0x79" name="y"/><!-- LATIN SMALL LETTER Y -->
+      <map code="0x7a" name="z"/><!-- LATIN SMALL LETTER Z -->
+      <map code="0x7b" name="braceleft"/><!-- LEFT CURLY BRACKET -->
+      <map code="0x7c" name="bar"/><!-- VERTICAL LINE -->
+      <map code="0x7d" name="braceright"/><!-- RIGHT CURLY BRACKET -->
+      <map code="0x7e" name="asciitilde"/><!-- TILDE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xa1" name="exclamdown"/><!-- INVERTED EXCLAMATION MARK -->
+      <map code="0xa2" name="cent"/><!-- CENT SIGN -->
+      <map code="0xa3" name="sterling"/><!-- POUND SIGN -->
+      <map code="0xa4" name="currency"/><!-- CURRENCY SIGN -->
+      <map code="0xa5" name="yen"/><!-- YEN SIGN -->
+      <map code="0xa6" name="brokenbar"/><!-- BROKEN BAR -->
+      <map code="0xa7" name="section"/><!-- SECTION SIGN -->
+      <map code="0xa8" name="dieresis"/><!-- DIAERESIS -->
+      <map code="0xa9" name="copyright"/><!-- COPYRIGHT SIGN -->
+      <map code="0xaa" name="ordfeminine"/><!-- FEMININE ORDINAL INDICATOR -->
+      <map code="0xab" name="guillemotleft"/><!-- LEFT-POINTING DOUBLE ANGLE QUOTATION MARK -->
+      <map code="0xac" name="logicalnot"/><!-- NOT SIGN -->
+      <map code="0xad" name="sfthyphen"/><!-- SOFT HYPHEN -->
+      <map code="0xae" name="registered"/><!-- REGISTERED SIGN -->
+      <map code="0xaf" name="macron"/><!-- MACRON -->
+      <map code="0xb0" name="degree"/><!-- DEGREE SIGN -->
+      <map code="0xb1" name="plusminus"/><!-- PLUS-MINUS SIGN -->
+      <map code="0xb2" name="twosuperior"/><!-- SUPERSCRIPT TWO -->
+      <map code="0xb3" name="threesuperior"/><!-- SUPERSCRIPT THREE -->
+      <map code="0xb4" name="acute"/><!-- ACUTE ACCENT -->
+      <map code="0xb5" name="mu"/><!-- MICRO SIGN -->
+      <map code="0xb6" name="paragraph"/><!-- PILCROW SIGN -->
+      <map code="0xb7" name="periodcentered"/><!-- MIDDLE DOT -->
+      <map code="0xb8" name="cedilla"/><!-- CEDILLA -->
+      <map code="0xb9" name="onesuperior"/><!-- SUPERSCRIPT ONE -->
+      <map code="0xba" name="ordmasculine"/><!-- MASCULINE ORDINAL INDICATOR -->
+      <map code="0xbb" name="guillemotright"/><!-- RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK -->
+      <map code="0xbc" name="onequarter"/><!-- VULGAR FRACTION ONE QUARTER -->
+      <map code="0xbd" name="onehalf"/><!-- VULGAR FRACTION ONE HALF -->
+      <map code="0xbe" name="threequarters"/><!-- VULGAR FRACTION THREE QUARTERS -->
+      <map code="0xbf" name="questiondown"/><!-- INVERTED QUESTION MARK -->
+      <map code="0xc0" name="Agrave"/><!-- LATIN CAPITAL LETTER A WITH GRAVE -->
+      <map code="0xc1" name="Aacute"/><!-- LATIN CAPITAL LETTER A WITH ACUTE -->
+      <map code="0xc2" name="Acircumflex"/><!-- LATIN CAPITAL LETTER A WITH CIRCUMFLEX -->
+      <map code="0xc3" name="Atilde"/><!-- LATIN CAPITAL LETTER A WITH TILDE -->
+      <map code="0xc4" name="Adieresis"/><!-- LATIN CAPITAL LETTER A WITH DIAERESIS -->
+      <map code="0xc5" name="Aring"/><!-- LATIN CAPITAL LETTER A WITH RING ABOVE -->
+      <map code="0xc6" name="AE"/><!-- LATIN CAPITAL LETTER AE -->
+      <map code="0xc7" name="Ccedilla"/><!-- LATIN CAPITAL LETTER C WITH CEDILLA -->
+      <map code="0xc8" name="Egrave"/><!-- LATIN CAPITAL LETTER E WITH GRAVE -->
+      <map code="0xc9" name="Eacute"/><!-- LATIN CAPITAL LETTER E WITH ACUTE -->
+      <map code="0xca" name="Ecircumflex"/><!-- LATIN CAPITAL LETTER E WITH CIRCUMFLEX -->
+      <map code="0xcb" name="Edieresis"/><!-- LATIN CAPITAL LETTER E WITH DIAERESIS -->
+      <map code="0xcc" name="Igrave"/><!-- LATIN CAPITAL LETTER I WITH GRAVE -->
+      <map code="0xcd" name="Iacute"/><!-- LATIN CAPITAL LETTER I WITH ACUTE -->
+      <map code="0xce" name="Icircumflex"/><!-- LATIN CAPITAL LETTER I WITH CIRCUMFLEX -->
+      <map code="0xcf" name="Idieresis"/><!-- LATIN CAPITAL LETTER I WITH DIAERESIS -->
+      <map code="0xd0" name="Eth"/><!-- LATIN CAPITAL LETTER ETH -->
+      <map code="0xd1" name="Ntilde"/><!-- LATIN CAPITAL LETTER N WITH TILDE -->
+      <map code="0xd2" name="Ograve"/><!-- LATIN CAPITAL LETTER O WITH GRAVE -->
+      <map code="0xd3" name="Oacute"/><!-- LATIN CAPITAL LETTER O WITH ACUTE -->
+      <map code="0xd4" name="Ocircumflex"/><!-- LATIN CAPITAL LETTER O WITH CIRCUMFLEX -->
+      <map code="0xd5" name="Otilde"/><!-- LATIN CAPITAL LETTER O WITH TILDE -->
+      <map code="0xd6" name="Odieresis"/><!-- LATIN CAPITAL LETTER O WITH DIAERESIS -->
+      <map code="0xd7" name="multiply"/><!-- MULTIPLICATION SIGN -->
+      <map code="0xd8" name="Oslash"/><!-- LATIN CAPITAL LETTER O WITH STROKE -->
+      <map code="0xd9" name="Ugrave"/><!-- LATIN CAPITAL LETTER U WITH GRAVE -->
+      <map code="0xda" name="Uacute"/><!-- LATIN CAPITAL LETTER U WITH ACUTE -->
+      <map code="0xdb" name="Ucircumflex"/><!-- LATIN CAPITAL LETTER U WITH CIRCUMFLEX -->
+      <map code="0xdc" name="Udieresis"/><!-- LATIN CAPITAL LETTER U WITH DIAERESIS -->
+      <map code="0xdd" name="Yacute"/><!-- LATIN CAPITAL LETTER Y WITH ACUTE -->
+      <map code="0xde" name="Thorn"/><!-- LATIN CAPITAL LETTER THORN -->
+      <map code="0xdf" name="germandbls"/><!-- LATIN SMALL LETTER SHARP S -->
+      <map code="0xe0" name="agrave"/><!-- LATIN SMALL LETTER A WITH GRAVE -->
+      <map code="0xe1" name="aacute"/><!-- LATIN SMALL LETTER A WITH ACUTE -->
+      <map code="0xe2" name="acircumflex"/><!-- LATIN SMALL LETTER A WITH CIRCUMFLEX -->
+      <map code="0xe3" name="atilde"/><!-- LATIN SMALL LETTER A WITH TILDE -->
+      <map code="0xe4" name="adieresis"/><!-- LATIN SMALL LETTER A WITH DIAERESIS -->
+      <map code="0xe5" name="aring"/><!-- LATIN SMALL LETTER A WITH RING ABOVE -->
+      <map code="0xe6" name="ae"/><!-- LATIN SMALL LETTER AE -->
+      <map code="0xe7" name="ccedilla"/><!-- LATIN SMALL LETTER C WITH CEDILLA -->
+      <map code="0xe8" name="egrave"/><!-- LATIN SMALL LETTER E WITH GRAVE -->
+      <map code="0xe9" name="eacute"/><!-- LATIN SMALL LETTER E WITH ACUTE -->
+      <map code="0xea" name="ecircumflex"/><!-- LATIN SMALL LETTER E WITH CIRCUMFLEX -->
+      <map code="0xeb" name="edieresis"/><!-- LATIN SMALL LETTER E WITH DIAERESIS -->
+      <map code="0xec" name="igrave"/><!-- LATIN SMALL LETTER I WITH GRAVE -->
+      <map code="0xed" name="iacute"/><!-- LATIN SMALL LETTER I WITH ACUTE -->
+      <map code="0xee" name="icircumflex"/><!-- LATIN SMALL LETTER I WITH CIRCUMFLEX -->
+      <map code="0xef" name="idieresis"/><!-- LATIN SMALL LETTER I WITH DIAERESIS -->
+      <map code="0xf0" name="eth"/><!-- LATIN SMALL LETTER ETH -->
+      <map code="0xf1" name="ntilde"/><!-- LATIN SMALL LETTER N WITH TILDE -->
+      <map code="0xf2" name="ograve"/><!-- LATIN SMALL LETTER O WITH GRAVE -->
+      <map code="0xf3" name="oacute"/><!-- LATIN SMALL LETTER O WITH ACUTE -->
+      <map code="0xf4" name="ocircumflex"/><!-- LATIN SMALL LETTER O WITH CIRCUMFLEX -->
+      <map code="0xf5" name="otilde"/><!-- LATIN SMALL LETTER O WITH TILDE -->
+      <map code="0xf6" name="odieresis"/><!-- LATIN SMALL LETTER O WITH DIAERESIS -->
+      <map code="0xf7" name="divide"/><!-- DIVISION SIGN -->
+      <map code="0xf8" name="oslash"/><!-- LATIN SMALL LETTER O WITH STROKE -->
+      <map code="0xf9" name="ugrave"/><!-- LATIN SMALL LETTER U WITH GRAVE -->
+      <map code="0xfa" name="uacute"/><!-- LATIN SMALL LETTER U WITH ACUTE -->
+      <map code="0xfb" name="ucircumflex"/><!-- LATIN SMALL LETTER U WITH CIRCUMFLEX -->
+      <map code="0xfc" name="udieresis"/><!-- LATIN SMALL LETTER U WITH DIAERESIS -->
+      <map code="0xfd" name="yacute"/><!-- LATIN SMALL LETTER Y WITH ACUTE -->
+      <map code="0xfe" name="thorn"/><!-- LATIN SMALL LETTER THORN -->
+      <map code="0xff" name="ydieresis"/><!-- LATIN SMALL LETTER Y WITH DIAERESIS -->
+      <map code="0x131" name="dotlessi"/><!-- LATIN SMALL LETTER DOTLESS I -->
+      <map code="0x152" name="OE"/><!-- LATIN CAPITAL LIGATURE OE -->
+      <map code="0x153" name="oe"/><!-- LATIN SMALL LIGATURE OE -->
+      <map code="0x160" name="Scaron"/><!-- LATIN CAPITAL LETTER S WITH CARON -->
+      <map code="0x161" name="scaron"/><!-- LATIN SMALL LETTER S WITH CARON -->
+      <map code="0x178" name="Ydieresis"/><!-- LATIN CAPITAL LETTER Y WITH DIAERESIS -->
+      <map code="0x17d" name="Zcaron"/><!-- LATIN CAPITAL LETTER Z WITH CARON -->
+      <map code="0x17e" name="zcaron"/><!-- LATIN SMALL LETTER Z WITH CARON -->
+      <map code="0x192" name="florin"/><!-- LATIN SMALL LETTER F WITH HOOK -->
+      <map code="0x2c6" name="circumflex"/><!-- MODIFIER LETTER CIRCUMFLEX ACCENT -->
+      <map code="0x2c7" name="caron"/><!-- CARON -->
+      <map code="0x2c9" name="uni02C9"/><!-- MODIFIER LETTER MACRON -->
+      <map code="0x2da" name="ring"/><!-- RING ABOVE -->
+      <map code="0x2dc" name="tilde"/><!-- SMALL TILDE -->
+      <map code="0x3bc" name="mu"/><!-- GREEK SMALL LETTER MU -->
+      <map code="0x600" name="uni0600"/><!-- ARABIC NUMBER SIGN -->
+      <map code="0x601" name="uni0601"/><!-- ARABIC SIGN SANAH -->
+      <map code="0x602" name="uni0602"/><!-- ARABIC FOOTNOTE MARKER -->
+      <map code="0x603" name="uni0603"/><!-- ARABIC SIGN SAFHA -->
+      <map code="0x60b" name="uni060B"/><!-- AFGHANI SIGN -->
+      <map code="0x60c" name="uni060C"/><!-- ARABIC COMMA -->
+      <map code="0x60d" name="uni060D"/><!-- ARABIC DATE SEPARATOR -->
+      <map code="0x60e" name="uni060E"/><!-- ARABIC POETIC VERSE SIGN -->
+      <map code="0x60f" name="uni060F"/><!-- ARABIC SIGN MISRA -->
+      <map code="0x610" name="uni0610"/><!-- ARABIC SIGN SALLALLAHOU ALAYHE WASSALLAM -->
+      <map code="0x611" name="uni0611"/><!-- ARABIC SIGN ALAYHE ASSALLAM -->
+      <map code="0x612" name="uni0612"/><!-- ARABIC SIGN RAHMATULLAH ALAYHE -->
+      <map code="0x613" name="uni0613"/><!-- ARABIC SIGN RADI ALLAHOU ANHU -->
+      <map code="0x614" name="uni0614"/><!-- ARABIC SIGN TAKHALLUS -->
+      <map code="0x615" name="uni0615"/><!-- ARABIC SMALL HIGH TAH -->
+      <map code="0x61b" name="uni061B"/><!-- ARABIC SEMICOLON -->
+      <map code="0x61e" name="uni061E"/><!-- ARABIC TRIPLE DOT PUNCTUATION MARK -->
+      <map code="0x61f" name="uni061F"/><!-- ARABIC QUESTION MARK -->
+      <map code="0x621" name="uni0621"/><!-- ARABIC LETTER HAMZA -->
+      <map code="0x622" name="uni0622"/><!-- ARABIC LETTER ALEF WITH MADDA ABOVE -->
+      <map code="0x623" name="uni0623"/><!-- ARABIC LETTER ALEF WITH HAMZA ABOVE -->
+      <map code="0x624" name="uni0624"/><!-- ARABIC LETTER WAW WITH HAMZA ABOVE -->
+      <map code="0x625" name="uni0625"/><!-- ARABIC LETTER ALEF WITH HAMZA BELOW -->
+      <map code="0x626" name="uni0626"/><!-- ARABIC LETTER YEH WITH HAMZA ABOVE -->
+      <map code="0x627" name="uni0627"/><!-- ARABIC LETTER ALEF -->
+      <map code="0x628" name="uni0628"/><!-- ARABIC LETTER BEH -->
+      <map code="0x629" name="uni0629"/><!-- ARABIC LETTER TEH MARBUTA -->
+      <map code="0x62a" name="uni062A"/><!-- ARABIC LETTER TEH -->
+      <map code="0x62b" name="uni062B"/><!-- ARABIC LETTER THEH -->
+      <map code="0x62c" name="uni062C"/><!-- ARABIC LETTER JEEM -->
+      <map code="0x62d" name="uni062D"/><!-- ARABIC LETTER HAH -->
+      <map code="0x62e" name="uni062E"/><!-- ARABIC LETTER KHAH -->
+      <map code="0x62f" name="uni062F"/><!-- ARABIC LETTER DAL -->
+      <map code="0x630" name="uni0630"/><!-- ARABIC LETTER THAL -->
+      <map code="0x631" name="uni0631"/><!-- ARABIC LETTER REH -->
+      <map code="0x632" name="uni0632"/><!-- ARABIC LETTER ZAIN -->
+      <map code="0x633" name="uni0633"/><!-- ARABIC LETTER SEEN -->
+      <map code="0x634" name="uni0634"/><!-- ARABIC LETTER SHEEN -->
+      <map code="0x635" name="uni0635"/><!-- ARABIC LETTER SAD -->
+      <map code="0x636" name="uni0636"/><!-- ARABIC LETTER DAD -->
+      <map code="0x637" name="uni0637"/><!-- ARABIC LETTER TAH -->
+      <map code="0x638" name="uni0638"/><!-- ARABIC LETTER ZAH -->
+      <map code="0x639" name="uni0639"/><!-- ARABIC LETTER AIN -->
+      <map code="0x63a" name="uni063A"/><!-- ARABIC LETTER GHAIN -->
+      <map code="0x640" name="uni0640"/><!-- ARABIC TATWEEL -->
+      <map code="0x641" name="uni0641"/><!-- ARABIC LETTER FEH -->
+      <map code="0x642" name="uni0642"/><!-- ARABIC LETTER QAF -->
+      <map code="0x643" name="uni0643"/><!-- ARABIC LETTER KAF -->
+      <map code="0x644" name="uni0644"/><!-- ARABIC LETTER LAM -->
+      <map code="0x645" name="uni0645"/><!-- ARABIC LETTER MEEM -->
+      <map code="0x646" name="uni0646"/><!-- ARABIC LETTER NOON -->
+      <map code="0x647" name="uni0647"/><!-- ARABIC LETTER HEH -->
+      <map code="0x648" name="uni0648"/><!-- ARABIC LETTER WAW -->
+      <map code="0x649" name="uni0649"/><!-- ARABIC LETTER ALEF MAKSURA -->
+      <map code="0x64a" name="uni064A"/><!-- ARABIC LETTER YEH -->
+      <map code="0x64b" name="uni064B"/><!-- ARABIC FATHATAN -->
+      <map code="0x64c" name="uni064C"/><!-- ARABIC DAMMATAN -->
+      <map code="0x64d" name="uni064D"/><!-- ARABIC KASRATAN -->
+      <map code="0x64e" name="uni064E"/><!-- ARABIC FATHA -->
+      <map code="0x64f" name="uni064F"/><!-- ARABIC DAMMA -->
+      <map code="0x650" name="uni0650"/><!-- ARABIC KASRA -->
+      <map code="0x651" name="uni0651"/><!-- ARABIC SHADDA -->
+      <map code="0x652" name="uni0652"/><!-- ARABIC SUKUN -->
+      <map code="0x653" name="uni0653"/><!-- ARABIC MADDAH ABOVE -->
+      <map code="0x654" name="uni0654"/><!-- ARABIC HAMZA ABOVE -->
+      <map code="0x655" name="uni0655"/><!-- ARABIC HAMZA BELOW -->
+      <map code="0x656" name="uni0656"/><!-- ARABIC SUBSCRIPT ALEF -->
+      <map code="0x657" name="uni0657"/><!-- ARABIC INVERTED DAMMA -->
+      <map code="0x658" name="uni0658"/><!-- ARABIC MARK NOON GHUNNA -->
+      <map code="0x659" name="uni0659"/><!-- ARABIC ZWARAKAY -->
+      <map code="0x65a" name="uni065A"/><!-- ARABIC VOWEL SIGN SMALL V ABOVE -->
+      <map code="0x65b" name="uni065B"/><!-- ARABIC VOWEL SIGN INVERTED SMALL V ABOVE -->
+      <map code="0x65c" name="uni065C"/><!-- ARABIC VOWEL SIGN DOT BELOW -->
+      <map code="0x65d" name="uni065D"/><!-- ARABIC REVERSED DAMMA -->
+      <map code="0x65e" name="uni065E"/><!-- ARABIC FATHA WITH TWO DOTS -->
+      <map code="0x660" name="uni0660"/><!-- ARABIC-INDIC DIGIT ZERO -->
+      <map code="0x661" name="uni0661"/><!-- ARABIC-INDIC DIGIT ONE -->
+      <map code="0x662" name="uni0662"/><!-- ARABIC-INDIC DIGIT TWO -->
+      <map code="0x663" name="uni0663"/><!-- ARABIC-INDIC DIGIT THREE -->
+      <map code="0x664" name="uni0664"/><!-- ARABIC-INDIC DIGIT FOUR -->
+      <map code="0x665" name="uni0665"/><!-- ARABIC-INDIC DIGIT FIVE -->
+      <map code="0x666" name="uni0666"/><!-- ARABIC-INDIC DIGIT SIX -->
+      <map code="0x667" name="uni0667"/><!-- ARABIC-INDIC DIGIT SEVEN -->
+      <map code="0x668" name="uni0668"/><!-- ARABIC-INDIC DIGIT EIGHT -->
+      <map code="0x669" name="uni0669"/><!-- ARABIC-INDIC DIGIT NINE -->
+      <map code="0x66a" name="uni066A"/><!-- ARABIC PERCENT SIGN -->
+      <map code="0x66b" name="uni066B"/><!-- ARABIC DECIMAL SEPARATOR -->
+      <map code="0x66c" name="uni066C"/><!-- ARABIC THOUSANDS SEPARATOR -->
+      <map code="0x66d" name="uni066D"/><!-- ARABIC FIVE POINTED STAR -->
+      <map code="0x66e" name="uni066E"/><!-- ARABIC LETTER DOTLESS BEH -->
+      <map code="0x66f" name="uni066F"/><!-- ARABIC LETTER DOTLESS QAF -->
+      <map code="0x670" name="uni0670"/><!-- ARABIC LETTER SUPERSCRIPT ALEF -->
+      <map code="0x671" name="uni0671"/><!-- ARABIC LETTER ALEF WASLA -->
+      <map code="0x672" name="uni0672"/><!-- ARABIC LETTER ALEF WITH WAVY HAMZA ABOVE -->
+      <map code="0x673" name="uni0673"/><!-- ARABIC LETTER ALEF WITH WAVY HAMZA BELOW -->
+      <map code="0x674" name="uni0674"/><!-- ARABIC LETTER HIGH HAMZA -->
+      <map code="0x675" name="uni0675"/><!-- ARABIC LETTER HIGH HAMZA ALEF -->
+      <map code="0x676" name="uni0676"/><!-- ARABIC LETTER HIGH HAMZA WAW -->
+      <map code="0x677" name="uni0677"/><!-- ARABIC LETTER U WITH HAMZA ABOVE -->
+      <map code="0x678" name="uni0678"/><!-- ARABIC LETTER HIGH HAMZA YEH -->
+      <map code="0x679" name="uni0679"/><!-- ARABIC LETTER TTEH -->
+      <map code="0x67a" name="uni067A"/><!-- ARABIC LETTER TTEHEH -->
+      <map code="0x67b" name="uni067B"/><!-- ARABIC LETTER BEEH -->
+      <map code="0x67c" name="uni067C"/><!-- ARABIC LETTER TEH WITH RING -->
+      <map code="0x67d" name="uni067D"/><!-- ARABIC LETTER TEH WITH THREE DOTS ABOVE DOWNWARDS -->
+      <map code="0x67e" name="uni067E"/><!-- ARABIC LETTER PEH -->
+      <map code="0x67f" name="uni067F"/><!-- ARABIC LETTER TEHEH -->
+      <map code="0x680" name="uni0680"/><!-- ARABIC LETTER BEHEH -->
+      <map code="0x681" name="uni0681"/><!-- ARABIC LETTER HAH WITH HAMZA ABOVE -->
+      <map code="0x682" name="uni0682"/><!-- ARABIC LETTER HAH WITH TWO DOTS VERTICAL ABOVE -->
+      <map code="0x683" name="uni0683"/><!-- ARABIC LETTER NYEH -->
+      <map code="0x684" name="uni0684"/><!-- ARABIC LETTER DYEH -->
+      <map code="0x685" name="uni0685"/><!-- ARABIC LETTER HAH WITH THREE DOTS ABOVE -->
+      <map code="0x686" name="uni0686"/><!-- ARABIC LETTER TCHEH -->
+      <map code="0x687" name="uni0687"/><!-- ARABIC LETTER TCHEHEH -->
+      <map code="0x688" name="uni0688"/><!-- ARABIC LETTER DDAL -->
+      <map code="0x689" name="uni0689"/><!-- ARABIC LETTER DAL WITH RING -->
+      <map code="0x68a" name="uni068A"/><!-- ARABIC LETTER DAL WITH DOT BELOW -->
+      <map code="0x68b" name="uni068B"/><!-- ARABIC LETTER DAL WITH DOT BELOW AND SMALL TAH -->
+      <map code="0x68c" name="uni068C"/><!-- ARABIC LETTER DAHAL -->
+      <map code="0x68d" name="uni068D"/><!-- ARABIC LETTER DDAHAL -->
+      <map code="0x68e" name="uni068E"/><!-- ARABIC LETTER DUL -->
+      <map code="0x68f" name="uni068F"/><!-- ARABIC LETTER DAL WITH THREE DOTS ABOVE DOWNWARDS -->
+      <map code="0x690" name="uni0690"/><!-- ARABIC LETTER DAL WITH FOUR DOTS ABOVE -->
+      <map code="0x691" name="uni0691"/><!-- ARABIC LETTER RREH -->
+      <map code="0x692" name="uni0692"/><!-- ARABIC LETTER REH WITH SMALL V -->
+      <map code="0x693" name="uni0693"/><!-- ARABIC LETTER REH WITH RING -->
+      <map code="0x694" name="uni0694"/><!-- ARABIC LETTER REH WITH DOT BELOW -->
+      <map code="0x695" name="uni0695"/><!-- ARABIC LETTER REH WITH SMALL V BELOW -->
+      <map code="0x696" name="uni0696"/><!-- ARABIC LETTER REH WITH DOT BELOW AND DOT ABOVE -->
+      <map code="0x697" name="uni0697"/><!-- ARABIC LETTER REH WITH TWO DOTS ABOVE -->
+      <map code="0x698" name="uni0698"/><!-- ARABIC LETTER JEH -->
+      <map code="0x699" name="uni0699"/><!-- ARABIC LETTER REH WITH FOUR DOTS ABOVE -->
+      <map code="0x69a" name="uni069A"/><!-- ARABIC LETTER SEEN WITH DOT BELOW AND DOT ABOVE -->
+      <map code="0x69b" name="uni069B"/><!-- ARABIC LETTER SEEN WITH THREE DOTS BELOW -->
+      <map code="0x69c" name="uni069C"/><!-- ARABIC LETTER SEEN WITH THREE DOTS BELOW AND THREE DOTS ABOVE -->
+      <map code="0x69d" name="uni069D"/><!-- ARABIC LETTER SAD WITH TWO DOTS BELOW -->
+      <map code="0x69e" name="uni069E"/><!-- ARABIC LETTER SAD WITH THREE DOTS ABOVE -->
+      <map code="0x69f" name="uni069F"/><!-- ARABIC LETTER TAH WITH THREE DOTS ABOVE -->
+      <map code="0x6a0" name="uni06A0"/><!-- ARABIC LETTER AIN WITH THREE DOTS ABOVE -->
+      <map code="0x6a1" name="uni06A1"/><!-- ARABIC LETTER DOTLESS FEH -->
+      <map code="0x6a2" name="uni06A2"/><!-- ARABIC LETTER FEH WITH DOT MOVED BELOW -->
+      <map code="0x6a3" name="uni06A3"/><!-- ARABIC LETTER FEH WITH DOT BELOW -->
+      <map code="0x6a4" name="uni06A4"/><!-- ARABIC LETTER VEH -->
+      <map code="0x6a5" name="uni06A5"/><!-- ARABIC LETTER FEH WITH THREE DOTS BELOW -->
+      <map code="0x6a6" name="uni06A6"/><!-- ARABIC LETTER PEHEH -->
+      <map code="0x6a7" name="uni06A7"/><!-- ARABIC LETTER QAF WITH DOT ABOVE -->
+      <map code="0x6a8" name="uni06A8"/><!-- ARABIC LETTER QAF WITH THREE DOTS ABOVE -->
+      <map code="0x6a9" name="uni06A9"/><!-- ARABIC LETTER KEHEH -->
+      <map code="0x6aa" name="uni06AA"/><!-- ARABIC LETTER SWASH KAF -->
+      <map code="0x6ab" name="uni06AB"/><!-- ARABIC LETTER KAF WITH RING -->
+      <map code="0x6ac" name="uni06AC"/><!-- ARABIC LETTER KAF WITH DOT ABOVE -->
+      <map code="0x6ad" name="uni06AD"/><!-- ARABIC LETTER NG -->
+      <map code="0x6ae" name="uni06AE"/><!-- ARABIC LETTER KAF WITH THREE DOTS BELOW -->
+      <map code="0x6af" name="uni06AF"/><!-- ARABIC LETTER GAF -->
+      <map code="0x6b0" name="uni06B0"/><!-- ARABIC LETTER GAF WITH RING -->
+      <map code="0x6b1" name="uni06B1"/><!-- ARABIC LETTER NGOEH -->
+      <map code="0x6b2" name="uni06B2"/><!-- ARABIC LETTER GAF WITH TWO DOTS BELOW -->
+      <map code="0x6b3" name="uni06B3"/><!-- ARABIC LETTER GUEH -->
+      <map code="0x6b4" name="uni06B4"/><!-- ARABIC LETTER GAF WITH THREE DOTS ABOVE -->
+      <map code="0x6b5" name="uni06B5"/><!-- ARABIC LETTER LAM WITH SMALL V -->
+      <map code="0x6b6" name="uni06B6"/><!-- ARABIC LETTER LAM WITH DOT ABOVE -->
+      <map code="0x6b7" name="uni06B7"/><!-- ARABIC LETTER LAM WITH THREE DOTS ABOVE -->
+      <map code="0x6b8" name="uni06B8"/><!-- ARABIC LETTER LAM WITH THREE DOTS BELOW -->
+      <map code="0x6b9" name="uni06B9"/><!-- ARABIC LETTER NOON WITH DOT BELOW -->
+      <map code="0x6ba" name="uni06BA"/><!-- ARABIC LETTER NOON GHUNNA -->
+      <map code="0x6bb" name="uni06BB"/><!-- ARABIC LETTER RNOON -->
+      <map code="0x6bc" name="uni06BC"/><!-- ARABIC LETTER NOON WITH RING -->
+      <map code="0x6bd" name="uni06BD"/><!-- ARABIC LETTER NOON WITH THREE DOTS ABOVE -->
+      <map code="0x6be" name="uni06BE"/><!-- ARABIC LETTER HEH DOACHASHMEE -->
+      <map code="0x6bf" name="uni06BF"/><!-- ARABIC LETTER TCHEH WITH DOT ABOVE -->
+      <map code="0x6c0" name="uni06C0"/><!-- ARABIC LETTER HEH WITH YEH ABOVE -->
+      <map code="0x6c1" name="uni06C1"/><!-- ARABIC LETTER HEH GOAL -->
+      <map code="0x6c2" name="uni06C2"/><!-- ARABIC LETTER HEH GOAL WITH HAMZA ABOVE -->
+      <map code="0x6c3" name="uni06C3"/><!-- ARABIC LETTER TEH MARBUTA GOAL -->
+      <map code="0x6c4" name="uni06C4"/><!-- ARABIC LETTER WAW WITH RING -->
+      <map code="0x6c5" name="uni06C5"/><!-- ARABIC LETTER KIRGHIZ OE -->
+      <map code="0x6c6" name="uni06C6"/><!-- ARABIC LETTER OE -->
+      <map code="0x6c7" name="uni06C7"/><!-- ARABIC LETTER U -->
+      <map code="0x6c8" name="uni06C8"/><!-- ARABIC LETTER YU -->
+      <map code="0x6c9" name="uni06C9"/><!-- ARABIC LETTER KIRGHIZ YU -->
+      <map code="0x6ca" name="uni06CA"/><!-- ARABIC LETTER WAW WITH TWO DOTS ABOVE -->
+      <map code="0x6cb" name="uni06CB"/><!-- ARABIC LETTER VE -->
+      <map code="0x6cc" name="uni06CC"/><!-- ARABIC LETTER FARSI YEH -->
+      <map code="0x6cd" name="uni06CD"/><!-- ARABIC LETTER YEH WITH TAIL -->
+      <map code="0x6ce" name="uni06CE"/><!-- ARABIC LETTER YEH WITH SMALL V -->
+      <map code="0x6cf" name="uni06CF"/><!-- ARABIC LETTER WAW WITH DOT ABOVE -->
+      <map code="0x6d0" name="uni06D0"/><!-- ARABIC LETTER E -->
+      <map code="0x6d1" name="uni06D1"/><!-- ARABIC LETTER YEH WITH THREE DOTS BELOW -->
+      <map code="0x6d2" name="uni06D2"/><!-- ARABIC LETTER YEH BARREE -->
+      <map code="0x6d3" name="uni06D3"/><!-- ARABIC LETTER YEH BARREE WITH HAMZA ABOVE -->
+      <map code="0x6d4" name="uni06D4"/><!-- ARABIC FULL STOP -->
+      <map code="0x6d5" name="uni06D5"/><!-- ARABIC LETTER AE -->
+      <map code="0x6d6" name="uni06D6"/><!-- ARABIC SMALL HIGH LIGATURE SAD WITH LAM WITH ALEF MAKSURA -->
+      <map code="0x6d7" name="uni06D7"/><!-- ARABIC SMALL HIGH LIGATURE QAF WITH LAM WITH ALEF MAKSURA -->
+      <map code="0x6d8" name="uni06D8"/><!-- ARABIC SMALL HIGH MEEM INITIAL FORM -->
+      <map code="0x6d9" name="uni06D9"/><!-- ARABIC SMALL HIGH LAM ALEF -->
+      <map code="0x6da" name="uni06DA"/><!-- ARABIC SMALL HIGH JEEM -->
+      <map code="0x6db" name="uni06DB"/><!-- ARABIC SMALL HIGH THREE DOTS -->
+      <map code="0x6dc" name="uni06DC"/><!-- ARABIC SMALL HIGH SEEN -->
+      <map code="0x6dd" name="uni06DD"/><!-- ARABIC END OF AYAH -->
+      <map code="0x6de" name="uni06DE"/><!-- ARABIC START OF RUB EL HIZB -->
+      <map code="0x6df" name="uni06DF"/><!-- ARABIC SMALL HIGH ROUNDED ZERO -->
+      <map code="0x6e0" name="uni06E0"/><!-- ARABIC SMALL HIGH UPRIGHT RECTANGULAR ZERO -->
+      <map code="0x6e1" name="uni06E1"/><!-- ARABIC SMALL HIGH DOTLESS HEAD OF KHAH -->
+      <map code="0x6e2" name="uni06E2"/><!-- ARABIC SMALL HIGH MEEM ISOLATED FORM -->
+      <map code="0x6e3" name="uni06E3"/><!-- ARABIC SMALL LOW SEEN -->
+      <map code="0x6e4" name="uni06E4"/><!-- ARABIC SMALL HIGH MADDA -->
+      <map code="0x6e5" name="uni06E5"/><!-- ARABIC SMALL WAW -->
+      <map code="0x6e6" name="uni06E6"/><!-- ARABIC SMALL YEH -->
+      <map code="0x6e7" name="uni06E7"/><!-- ARABIC SMALL HIGH YEH -->
+      <map code="0x6e8" name="uni06E8"/><!-- ARABIC SMALL HIGH NOON -->
+      <map code="0x6e9" name="uni06E9"/><!-- ARABIC PLACE OF SAJDAH -->
+      <map code="0x6ea" name="uni06EA"/><!-- ARABIC EMPTY CENTRE LOW STOP -->
+      <map code="0x6eb" name="uni06EB"/><!-- ARABIC EMPTY CENTRE HIGH STOP -->
+      <map code="0x6ec" name="uni06EC"/><!-- ARABIC ROUNDED HIGH STOP WITH FILLED CENTRE -->
+      <map code="0x6ed" name="uni06ED"/><!-- ARABIC SMALL LOW MEEM -->
+      <map code="0x6ee" name="uni06EE"/><!-- ARABIC LETTER DAL WITH INVERTED V -->
+      <map code="0x6ef" name="uni06EF"/><!-- ARABIC LETTER REH WITH INVERTED V -->
+      <map code="0x6f0" name="uni06F0"/><!-- EXTENDED ARABIC-INDIC DIGIT ZERO -->
+      <map code="0x6f1" name="uni06F1"/><!-- EXTENDED ARABIC-INDIC DIGIT ONE -->
+      <map code="0x6f2" name="uni06F2"/><!-- EXTENDED ARABIC-INDIC DIGIT TWO -->
+      <map code="0x6f3" name="uni06F3"/><!-- EXTENDED ARABIC-INDIC DIGIT THREE -->
+      <map code="0x6f4" name="uni06F4"/><!-- EXTENDED ARABIC-INDIC DIGIT FOUR -->
+      <map code="0x6f5" name="uni06F5"/><!-- EXTENDED ARABIC-INDIC DIGIT FIVE -->
+      <map code="0x6f6" name="uni06F6"/><!-- EXTENDED ARABIC-INDIC DIGIT SIX -->
+      <map code="0x6f7" name="uni06F7"/><!-- EXTENDED ARABIC-INDIC DIGIT SEVEN -->
+      <map code="0x6f8" name="uni06F8"/><!-- EXTENDED ARABIC-INDIC DIGIT EIGHT -->
+      <map code="0x6f9" name="uni06F9"/><!-- EXTENDED ARABIC-INDIC DIGIT NINE -->
+      <map code="0x6fa" name="uni06FA"/><!-- ARABIC LETTER SHEEN WITH DOT BELOW -->
+      <map code="0x6fb" name="uni06FB"/><!-- ARABIC LETTER DAD WITH DOT BELOW -->
+      <map code="0x6fc" name="uni06FC"/><!-- ARABIC LETTER GHAIN WITH DOT BELOW -->
+      <map code="0x6fd" name="uni06FD"/><!-- ARABIC SIGN SINDHI AMPERSAND -->
+      <map code="0x6fe" name="uni06FE"/><!-- ARABIC SIGN SINDHI POSTPOSITION MEN -->
+      <map code="0x6ff" name="uni06FF"/><!-- ARABIC LETTER HEH WITH INVERTED V -->
+      <map code="0x750" name="uni0750"/><!-- ARABIC LETTER BEH WITH THREE DOTS HORIZONTALLY BELOW -->
+      <map code="0x751" name="uni0751"/><!-- ARABIC LETTER BEH WITH DOT BELOW AND THREE DOTS ABOVE -->
+      <map code="0x752" name="uni0752"/><!-- ARABIC LETTER BEH WITH THREE DOTS POINTING UPWARDS BELOW -->
+      <map code="0x753" name="uni0753"/><!-- ARABIC LETTER BEH WITH THREE DOTS POINTING UPWARDS BELOW AND TWO DOTS ABOVE -->
+      <map code="0x754" name="uni0754"/><!-- ARABIC LETTER BEH WITH TWO DOTS BELOW AND DOT ABOVE -->
+      <map code="0x755" name="uni0755"/><!-- ARABIC LETTER BEH WITH INVERTED SMALL V BELOW -->
+      <map code="0x756" name="uni0756"/><!-- ARABIC LETTER BEH WITH SMALL V -->
+      <map code="0x757" name="uni0757"/><!-- ARABIC LETTER HAH WITH TWO DOTS ABOVE -->
+      <map code="0x758" name="uni0758"/><!-- ARABIC LETTER HAH WITH THREE DOTS POINTING UPWARDS BELOW -->
+      <map code="0x759" name="uni0759"/><!-- ARABIC LETTER DAL WITH TWO DOTS VERTICALLY BELOW AND SMALL TAH -->
+      <map code="0x75a" name="uni075A"/><!-- ARABIC LETTER DAL WITH INVERTED SMALL V BELOW -->
+      <map code="0x75b" name="uni075B"/><!-- ARABIC LETTER REH WITH STROKE -->
+      <map code="0x75c" name="uni075C"/><!-- ARABIC LETTER SEEN WITH FOUR DOTS ABOVE -->
+      <map code="0x75d" name="uni075D"/><!-- ARABIC LETTER AIN WITH TWO DOTS ABOVE -->
+      <map code="0x75e" name="uni075E"/><!-- ARABIC LETTER AIN WITH THREE DOTS POINTING DOWNWARDS ABOVE -->
+      <map code="0x75f" name="uni075F"/><!-- ARABIC LETTER AIN WITH TWO DOTS VERTICALLY ABOVE -->
+      <map code="0x760" name="uni0760"/><!-- ARABIC LETTER FEH WITH TWO DOTS BELOW -->
+      <map code="0x761" name="uni0761"/><!-- ARABIC LETTER FEH WITH THREE DOTS POINTING UPWARDS BELOW -->
+      <map code="0x762" name="uni0762"/><!-- ARABIC LETTER KEHEH WITH DOT ABOVE -->
+      <map code="0x763" name="uni0763"/><!-- ARABIC LETTER KEHEH WITH THREE DOTS ABOVE -->
+      <map code="0x764" name="uni0764"/><!-- ARABIC LETTER KEHEH WITH THREE DOTS POINTING UPWARDS BELOW -->
+      <map code="0x765" name="uni0765"/><!-- ARABIC LETTER MEEM WITH DOT ABOVE -->
+      <map code="0x766" name="uni0766"/><!-- ARABIC LETTER MEEM WITH DOT BELOW -->
+      <map code="0x767" name="uni0767"/><!-- ARABIC LETTER NOON WITH TWO DOTS BELOW -->
+      <map code="0x768" name="uni0768"/><!-- ARABIC LETTER NOON WITH SMALL TAH -->
+      <map code="0x769" name="uni0769"/><!-- ARABIC LETTER NOON WITH SMALL V -->
+      <map code="0x76a" name="uni076A"/><!-- ARABIC LETTER LAM WITH BAR -->
+      <map code="0x76b" name="uni076B"/><!-- ARABIC LETTER REH WITH TWO DOTS VERTICALLY ABOVE -->
+      <map code="0x76c" name="uni076C"/><!-- ARABIC LETTER REH WITH HAMZA ABOVE -->
+      <map code="0x76d" name="uni076D"/><!-- ARABIC LETTER SEEN WITH TWO DOTS VERTICALLY ABOVE -->
+      <map code="0x2000" name="uni2000"/><!-- EN QUAD -->
+      <map code="0x2001" name="uni2001"/><!-- EM QUAD -->
+      <map code="0x2002" name="uni2002"/><!-- EN SPACE -->
+      <map code="0x2003" name="uni2003"/><!-- EM SPACE -->
+      <map code="0x2004" name="uni2004"/><!-- THREE-PER-EM SPACE -->
+      <map code="0x2005" name="uni2005"/><!-- FOUR-PER-EM SPACE -->
+      <map code="0x2006" name="uni2006"/><!-- SIX-PER-EM SPACE -->
+      <map code="0x2007" name="uni2007"/><!-- FIGURE SPACE -->
+      <map code="0x2008" name="uni2008"/><!-- PUNCTUATION SPACE -->
+      <map code="0x2009" name="uni2009"/><!-- THIN SPACE -->
+      <map code="0x200a" name="uni200A"/><!-- HAIR SPACE -->
+      <map code="0x200b" name="uni200B"/><!-- ZERO WIDTH SPACE -->
+      <map code="0x200c" name="uni200C"/><!-- ZERO WIDTH NON-JOINER -->
+      <map code="0x200d" name="uni200D"/><!-- ZERO WIDTH JOINER -->
+      <map code="0x200e" name="uni200E"/><!-- LEFT-TO-RIGHT MARK -->
+      <map code="0x200f" name="uni200F"/><!-- RIGHT-TO-LEFT MARK -->
+      <map code="0x2010" name="uni2010"/><!-- HYPHEN -->
+      <map code="0x2011" name="uni2011"/><!-- NON-BREAKING HYPHEN -->
+      <map code="0x2013" name="endash"/><!-- EN DASH -->
+      <map code="0x2014" name="emdash"/><!-- EM DASH -->
+      <map code="0x2018" name="quoteleft"/><!-- LEFT SINGLE QUOTATION MARK -->
+      <map code="0x2019" name="quoteright"/><!-- RIGHT SINGLE QUOTATION MARK -->
+      <map code="0x201a" name="quotesinglbase"/><!-- SINGLE LOW-9 QUOTATION MARK -->
+      <map code="0x201c" name="quotedblleft"/><!-- LEFT DOUBLE QUOTATION MARK -->
+      <map code="0x201d" name="quotedblright"/><!-- RIGHT DOUBLE QUOTATION MARK -->
+      <map code="0x201e" name="quotedblbase"/><!-- DOUBLE LOW-9 QUOTATION MARK -->
+      <map code="0x2020" name="dagger"/><!-- DAGGER -->
+      <map code="0x2021" name="daggerdbl"/><!-- DOUBLE DAGGER -->
+      <map code="0x2022" name="bullet"/><!-- BULLET -->
+      <map code="0x2026" name="ellipsis"/><!-- HORIZONTAL ELLIPSIS -->
+      <map code="0x202a" name="uni202A"/><!-- LEFT-TO-RIGHT EMBEDDING -->
+      <map code="0x202b" name="uni202B"/><!-- RIGHT-TO-LEFT EMBEDDING -->
+      <map code="0x202c" name="uni202C"/><!-- POP DIRECTIONAL FORMATTING -->
+      <map code="0x202d" name="uni202D"/><!-- LEFT-TO-RIGHT OVERRIDE -->
+      <map code="0x202e" name="uni202E"/><!-- RIGHT-TO-LEFT OVERRIDE -->
+      <map code="0x2030" name="perthousand"/><!-- PER MILLE SIGN -->
+      <map code="0x2039" name="guilsinglleft"/><!-- SINGLE LEFT-POINTING ANGLE QUOTATION MARK -->
+      <map code="0x203a" name="guilsinglright"/><!-- SINGLE RIGHT-POINTING ANGLE QUOTATION MARK -->
+      <map code="0x2060" name="uni2060"/><!-- WORD JOINER -->
+      <map code="0x206c" name="uni206C"/><!-- INHIBIT ARABIC FORM SHAPING -->
+      <map code="0x206d" name="uni206D"/><!-- ACTIVATE ARABIC FORM SHAPING -->
+      <map code="0x20ac" name="Euro"/><!-- EURO SIGN -->
+      <map code="0x2122" name="trademark"/><!-- TRADE MARK SIGN -->
+      <map code="0x2212" name="minus"/><!-- MINUS SIGN -->
+      <map code="0x2219" name="uni2219"/><!-- BULLET OPERATOR -->
+      <map code="0x25cc" name="uni25CC"/><!-- DOTTED CIRCLE -->
+      <map code="0xfd3e" name="uniFD3E"/><!-- ORNATE LEFT PARENTHESIS -->
+      <map code="0xfd3f" name="uniFD3F"/><!-- ORNATE RIGHT PARENTHESIS -->
+      <map code="0xfdf2" name="uniFDF2"/><!-- ARABIC LIGATURE ALLAH ISOLATED FORM -->
+      <map code="0xfdfc" name="uniFDFC"/><!-- RIAL SIGN -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>

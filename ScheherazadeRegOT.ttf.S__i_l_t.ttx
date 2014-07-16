@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <Silt>
+    <hexdata>
+      1f8b0800 00000000 00ffcd58 cb72db36
+      145dab33 fd871b6d 5b3d28cb b29d91e3
+      d1331edb 8d3b91bc c8ca0393 90c81108
+      6a08d08a 9bc99775 d14fca2f e4820449
+      4994448a 6e3df5c6 7cdc7b0e eec10574
+      c01f7fff d3bdfaea 3278a6be 703c7e59
+      35eacd2a 506e7a96 c3e797d5 87e9b876
+      5ebdfaf0 eb2fdd77 c3fbc1f4 cb9f2320
+      8c3dce28 91814f05 4cbe4ca6 a33fa0aa
+      1e3ce29b ba25adaa 0adf88da 80c7b795
+      ae7e059c b8f4b27a 47f83c20 735a8567
+      c2027c30 a4331230 59054970 14777c1e
+      6655bae1 6b9db419 8377514c a56bba96
+      0ee10163 5520fe5c e8eb4604 d30871b2
+      90b7816f 39c2d690 78978564 9eb70896
+      8fc4b262 e08f9387 3e988449 f8a6f37b
+      4c529f13 49c57764 ac1ca49c 38dcb21d
+      cd883747 3246e9c7 103ef856 a0e9f0f2
+      483a957c 98acdbd0 538b37d9 899ed888
+      4b7e5b10 e1135832 62529772 b967da6f
+      89d0d3fe ae560341 29b69ef0 40da141c
+      8e6320a6 c4a612f8 26bc805a ed4d9ae4
+      337104b5 34e2b533 b75f0f79 e7ada89f
+      60e2ddde 69b128db 98169f39 73ec8250
+      d65ba5ea f72c57ce 94048b80 27333060
+      5e5adc24 d8b1ec76 46bca6f8 fb25e560
+      792b1e4f d28e3510 ee483446 6d764e5b
+      107047fd afab4c05 518886d1 59b2a9c8
+      a36854e6 0e9a4aae be37d44e d49d48c2
+      2de2c7ea ddd01dfa 6ec54ce4 8e357aac
+      c4434fc2 35495681 bc2e50fb c57954fb
+      c5394a2c 55f681c6 aaecaa1c 59191502
+      6c4a2cf0 66b0b0c9 5e2986b6 b7782331
+      6e8870c1 2bd10d23 23af1b8a 68b2e22b
+      2c084ccf 7549a2c6 1877361a 4b61ee10
+      623d60fc 7a0da67e 10a34df3 0b6f0ea2
+      c29b8370 b5a9f16b 82435946 3fca32fa
+      db59c5f7 26e76b8d 3b9c8245 502dec85
+      9d8261d4 270cfabf a9d6d6aa b50775a1
+      4778b0fc 4a252bc0 88872b87 bcec5f39
+      3df5ee6d 56cec471 97cc9939 d4825ecc
+      9eafc370 18e9301c d6d1431c c1d1d71c
+      fd6339fa 39426775 be67164c 6c8713b0
+      89b948a4 e61e4f9a 4cbddda1 f35a4878
+      990e55c4 868b3b6a b0a7c6f6 4f47a592
+      3567512c b4eb8606 6d1b0520 375e8623
+      bdc632da db8c07e8 9a315db3 3c5db328
+      dd49bda5 e94e5aa5 e9303577 3759b789
+      ea3de05f 178dab44 cfc8d035 86478b1a
+      7a6840ef 548bdd21 e8bff2ee 2bcc6e28
+      a2fdac68 a5ff53d6 6e63ab7a f50cb11f
+      9f98672e 44245d72 9f915e2b af9cf714
+      0df7b301 338f4b5c 1e0208cc e80ae6ec
+      65690b74 e3448272 af10a02d 4463aed7
+      11513b17 5a753f5c 5122440b eb7b0a30
+      de764c3b caa2cf78 0008f0b4 f8121d3b
+      238cb853 4eebc6ef 809e7f45 f100c241
+      9019c540 2c5c9d02 044d514d 972c1140
+      fa0e15ef e393c081 1de3ac83 07d92771
+      43a9fb99 4adf53bd 1655bb46 fd3edc54
+      546811c0 b1029c9a 36b543c4 d621c471
+      11c4b3a6 429cd894 f25c448c 2d826844
+      45dbb935 636411bc d6868827 87005bc9
+      f9ac9174 9df648d9 3e5cdfc3 3e40da8a
+      0fc2e173 e0145b07 4c9bf802 bcb45970
+      d304f122 24750b8c bd737e52 62ec070d
+      73eb5f15 b733ee95 99fe7575 73c5c5cd
+      1e8ae8da 3c42d78b b6eef17e 66bc6a82
+      8a209c6a 84416984 be461896 4688ccdb
+      d969e931 f4cff418 7aa511e2 2acecb22
+      8cdafac4 32ca4538 e41e8a77 94fa3d2f
+      b052d100 1cd151c3 b13e48b4 77545164
+      dfeb8c9a 5a87b35c 84fdb626 cacbfd50
+      06575757 f0adc7e4 0df9cbbd e79f3c8f
+      7fb403ce f1571a79 00f6d267 745e7b10
+      ff7e13e6 1041532f 13de6f7e bc4c3fcf
+      2536d668 ad1984f5 94edaf87 6986b127
+      63f30360 1a7fb28f 21752949 70278aed
+      36d26ad4 75fabd18 1ffc0405 cf340a9a
+      160000   
+    </hexdata>
+  </Silt>
+
+</ttFont>
