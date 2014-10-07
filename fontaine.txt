@@ -1,0 +1,42 @@
+Fonts
+  Font:
+    Common name: Scheherazade
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2004-2011, SIL International (http://www.sil.org/), with Reserved Font Names "Scheherazade" and "SIL"., and released under the SIL Open Font License 1.1.
+    License: Copyright (c) 2004-2011, SIL International (http://www.sil.org/),
+    License url: http://scripts.sil.org/ofl
+    Version: Version 1.005 (build 117/117)
+    Vendor: SIL International
+    Vendor url: http://www.sil.org/
+    Designer: SIL International
+    Designer url: http://scripts.sil.org/
+    Glyph count: 1197
+    Character count: 523
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
